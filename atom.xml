@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>特呆萌的徒弟</title>
+  
+  <subtitle>我们是知识的井底之蛙</subtitle>
+  <link href="http://cn.blog.tedaimeng.cn/atom.xml" rel="self"/>
+  
+  <link href="http://cn.blog.tedaimeng.cn/"/>
+  <updated>2020-08-14T23:53:35.183Z</updated>
+  <id>http://cn.blog.tedaimeng.cn/</id>
+  
+  <author>
+    <name>特呆萌的徒弟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java的运行机制与字节码文件</title>
+    <link href="http://cn.blog.tedaimeng.cn/Java%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6/"/>
+    <id>http://cn.blog.tedaimeng.cn/Java%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6/</id>
+    <published>2020-08-14T03:09:24.000Z</published>
+    <updated>2020-08-14T23:53:35.183Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;你需要的准备&quot;&gt;&lt;a href=&quot;#你需要的准备&quot; class=&quot;headerlink&quot; title=&quot;你需要的准备&quot;&gt;&lt;/a&gt;你需要的准备&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;一个脑子&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Java学习之路" scheme="http://cn.blog.tedaimeng.cn/categories/Java%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一个Java博客-Mac安装jdk</title>
+    <link href="http://cn.blog.tedaimeng.cn/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E5%8D%9A%E5%AE%A2-Mac%E5%AE%89%E8%A3%85jdk/"/>
+    <id>http://cn.blog.tedaimeng.cn/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E5%8D%9A%E5%AE%A2-Mac%E5%AE%89%E8%A3%85jdk/</id>
+    <published>2020-08-12T11:18:09.000Z</published>
+    <updated>2020-08-15T00:25:39.017Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;如果有疑问或者错误请在下方评论区询问或者指出&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;感谢大家的支持！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;jdk环境肯定是作为Java学习的第一步的。&lt;br&gt;作为第一个Java博客，就来写下Mac安装jdk的过程&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java学习之路" scheme="http://cn.blog.tedaimeng.cn/categories/Java%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac安装blessing skin皮肤站</title>
+    <link href="http://cn.blog.tedaimeng.cn/Mac%E5%AE%89%E8%A3%85blessing-skin%E7%9A%AE%E8%82%A4%E7%AB%99/"/>
+    <id>http://cn.blog.tedaimeng.cn/Mac%E5%AE%89%E8%A3%85blessing-skin%E7%9A%AE%E8%82%A4%E7%AB%99/</id>
+    <published>2020-07-31T08:51:47.000Z</published>
+    <updated>2020-08-14T23:56:42.905Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这可能是最贵的搭建成本了吧&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;blessing skin皮肤站的好处不用介绍了吧。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;什么是 Blessing Skin？我为什么需要皮肤站？&lt;br&gt;       顾名思义，Blessing Skin 是一款 Minecraft 皮肤站程序，提供皮肤的上传和管理功能。配合相应的皮肤 Mod 或是服务端插件，即可在游戏中显示您和其他玩家的皮肤。&lt;br&gt;      对于盗版玩家来说，使用皮肤站几乎是他们对其他玩家展示自己的皮肤的唯一途径；对于正版玩家来说，由于 Mojang 从 Minecraft 1.7.6 起更改了皮肤加载的机制，导致正版玩家进入离线模式的服务器时也不会加载皮肤。皮肤站的作用就是在这些糟糕的情况下加载皮肤。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Minecraft" scheme="http://cn.blog.tedaimeng.cn/categories/Minecraft/"/>
+    
+    
+  </entry>
+  
+</feed>
