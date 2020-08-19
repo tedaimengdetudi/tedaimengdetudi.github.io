@@ -6,7 +6,7 @@
   <link href="http://cn.blog.tedaimeng.cn/atom.xml" rel="self"/>
   
   <link href="http://cn.blog.tedaimeng.cn/"/>
-  <updated>2020-08-14T23:53:35.183Z</updated>
+  <updated>2020-08-18T15:31:33.372Z</updated>
   <id>http://cn.blog.tedaimeng.cn/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>计算机网络基础</title>
+    <link href="http://cn.blog.tedaimeng.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/"/>
+    <id>http://cn.blog.tedaimeng.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-08-18T11:38:02.000Z</published>
+    <updated>2020-08-18T15:31:33.372Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="编程随笔" scheme="http://cn.blog.tedaimeng.cn/categories/%E7%BC%96%E7%A8%8B%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="网络" scheme="http://cn.blog.tedaimeng.cn/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java的运行机制与字节码文件</title>
     <link href="http://cn.blog.tedaimeng.cn/Java%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6/"/>
     <id>http://cn.blog.tedaimeng.cn/Java%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6/</id>
     <published>2020-08-14T03:09:24.000Z</published>
-    <updated>2020-08-14T23:53:35.183Z</updated>
+    <updated>2020-08-18T11:40:17.004Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;你需要的准备&quot;&gt;&lt;a href=&quot;#你需要的准备&quot; class=&quot;headerlink&quot; title=&quot;你需要的准备&quot;&gt;&lt;/a&gt;你需要的准备&lt;/h2&gt;&lt;ul&gt;
@@ -32,6 +57,8 @@
     
     <category term="Java学习之路" scheme="http://cn.blog.tedaimeng.cn/categories/Java%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
     
+    
+    <category term="Java" scheme="http://cn.blog.tedaimeng.cn/tags/Java/"/>
     
   </entry>
   
