@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cn.blog.tedaimeng.cn/copyright/index.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://cn.blog.tedaimeng.cn/4399/index.html</loc>
     
     <lastmod>2020-08-19</lastmod>
@@ -60,7 +67,7 @@
 
   <url>
     <loc>http://cn.blog.tedaimeng.cn/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +75,14 @@
   
   <url>
     <loc>http://cn.blog.tedaimeng.cn/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://cn.blog.tedaimeng.cn/tags/Java/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,21 +91,21 @@
   
   <url>
     <loc>http://cn.blog.tedaimeng.cn/categories/Java%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://cn.blog.tedaimeng.cn/categories/Minecraft/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://cn.blog.tedaimeng.cn/categories/%E7%BC%96%E7%A8%8B%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
